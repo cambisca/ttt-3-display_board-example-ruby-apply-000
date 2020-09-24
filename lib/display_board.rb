@@ -4,8 +4,8 @@
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
-  print "-----------"
-  print "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
 end 
 
-print display_board
+return display_board
