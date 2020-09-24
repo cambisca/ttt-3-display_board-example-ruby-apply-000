@@ -4,8 +4,8 @@
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
-  puts "-----------"
-  puts "   |   |   "
+  print "-----------"
+  print "   |   |   "
 end 
 
 print display_board
